@@ -1,1 +1,1 @@
-# thumbmate
+# thumbmate youtube thumbnail downloader
